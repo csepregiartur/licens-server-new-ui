@@ -1,0 +1,8 @@
+{
+  "name": "License Server & Generator Dashboard",
+  "description": "Full-stack client license activation, validation server, and administrative dashboard for managing RSA-2048 JWT keys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
